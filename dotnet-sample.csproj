@@ -6,6 +6,6 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <StartupObject>dotnet_sample.ProgramNumber</StartupObject>
+    <StartupObject>dotnet_sample.ProgramDictory</StartupObject>
   </PropertyGroup>
 </Project>
